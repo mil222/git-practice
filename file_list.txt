@@ -1,0 +1,6 @@
+total 1.0K
+-rw-r--r-- 1 김미리 197121 24 Oct 19 14:34 README.md
+-rw-r--r-- 1 김미리 197121  0 Oct 19 15:01 file_list.txt
+total 2.0K
+-rw-r--r-- 1 김미리 197121  24 Oct 19 14:34 README.md
+-rw-r--r-- 1 김미리 197121 127 Oct 19 15:01 file_list.txt
